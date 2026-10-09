@@ -1,0 +1,11 @@
+{
+  "package_name": "ch.heuscher.gentledevice",
+  "version_code": 1086,
+  "version_name": "1.0.1086",
+  "url": "https://raw.githubusercontent.com/stephansdigitalerassistent/gentle-releases/4bcd389cd2a884f767814daff3ad772d933f3cec/app.apk",
+  "sha256": "9751b3b3dc180564e37a525fc94758bd4264a4d0f4c4639907c7e5d50bc6df4a",
+  "signer_sha256": "320ff6421e05a08f627644c313b6522c7d0d6d4eaa2394a3e423e7287de46014",
+  "min_dpc_version_code": 1,
+  "built_from": "stephansdigitalerassistent/gentle-device@d5e51639b53566b4ef399f7f21c5a4183972d455",
+  "published_at": "2026-10-09T18:58:09Z"
+}

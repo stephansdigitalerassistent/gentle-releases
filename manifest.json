@@ -1,0 +1,11 @@
+{
+  "package_name": "ch.heuscher.gentleconnect",
+  "version_code": 1574,
+  "version_name": "1.0.1574",
+  "url": "https://raw.githubusercontent.com/stephansdigitalerassistent/gentle-releases/25e31aa6e3e4a4ab46d94298d566bb1a3dcc5f18/app.apk",
+  "sha256": "45d14caf9c227657ffa0406b531b4dcb39867a44bdb0e46854b11f59f1c11e07",
+  "signer_sha256": "b86695cac3a72ad888f37328f6ef601ae20ae57825628ab2686ba8888babad0a",
+  "min_dpc_version_code": 1,
+  "built_from": "stephansdigitalerassistent/gentle-connection@5986714ff457ef7630a806bd06a62eaf360d1ddb",
+  "published_at": "2026-11-21T11:56:53Z"
+}
